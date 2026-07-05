@@ -22,7 +22,7 @@ const EDUCATION: Edu[] = [
     institution: "Birla Institute of Technology and Science, Pilani",
     short: "BITS Pilani",
     period: "2025 – 2027",
-    cgpa: "8.53",
+    cgpa: "9.00",
     cgpaLabel: "Current CGPA",
     color: "#00d9ff",
     mode: "Work Integrated Learning Programme",
